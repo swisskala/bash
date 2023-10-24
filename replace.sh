@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo apt-get install -y lolcat figlet cowsay
 # Copy the .bashrc from the current directory (cloned repo) to the user's home directory
 cp .bashrc ~/
 
